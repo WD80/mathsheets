@@ -6,8 +6,8 @@ to practise, and it makes an A4 page of 20 questions you can print.
 **One HTML file. No install, no server, no network, no account.** Download it,
 open it in a browser, use it.
 
-[**Try it here**](https://YOUR-USERNAME.github.io/mathsheets/) &nbsp;·&nbsp;
-[**Download the file**](https://github.com/YOUR-USERNAME/mathsheets/raw/main/mathsheets_public_v1.html)
+[**Try it here**](https://wd80.github.io/mathsheets/) &nbsp;·&nbsp;
+[**Download the file**](https://github.com/WD80/mathsheets/raw/main/mathsheets_public_v1.html)
 
 ![The generator](screenshot-app.png)
 
