@@ -1,6 +1,6 @@
 # Math Sheets
 
-A printable maths worksheet generator for young children. Pick what you want her
+A printable maths worksheet generator for young children. Pick what you want them
 to practise, and it makes an A4 page of 20 questions you can print.
 
 **One HTML file. No install, no server, no network, no account.** Download it,
@@ -50,8 +50,8 @@ rather than from which boxes you ticked. Three things it deliberately does:
   hardest single idea here, tops out at five and a half.
 - **Breadth is the route to six.** It takes four or more different kinds of
   exercise on one page, and usually negatives too. Changing method between
-  questions is genuine work: she has to recognise what she is looking at before
-  she can start.
+  questions is genuine work: they have to recognise what they are looking at
+  before they can start.
 
 The point is that the rating has to be honest. A child who gets used to scoring
 highly on something easy will not enjoy the day it stops being easy.
@@ -62,7 +62,7 @@ Set a lowest star level, a highest, and how many sheets. It works out which
 combinations of exercises hit each level, generates them, and gives you a ZIP of
 PNGs named by level - `star-3.5-04.png`. A week of homework in one click.
 
-It only uses exercise types you have switched on. If she is not doing division
+It only uses exercise types you have switched on. If they are not doing division
 this week, no sheet in the batch contains any.
 
 <br clear="all">
