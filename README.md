@@ -7,7 +7,7 @@ to practise, and it makes an A4 page of 20 questions you can print.
 open it in a browser, use it.
 
 [**Try it here**](https://wd80.github.io/mathsheets/) &nbsp;·&nbsp;
-[**Download the file**](https://github.com/WD80/mathsheets/raw/main/mathsheets_public_v1.html)
+[**Download the file**](https://github.com/WD80/mathsheets/releases/latest/download/mathsheets_public_v1.html)
 
 ![The generator](screenshot-app.png)
 
