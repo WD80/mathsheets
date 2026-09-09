@@ -79,7 +79,9 @@ than PDF because PDF printing kept producing margin and border errors.
 Settings, layout and everything else are remembered in your browser between
 sessions. Nothing is sent anywhere; there is no server to send it to.
 
-Works on a laptop, and on a phone or tablet where the panel becomes a drawer.
+Works on a laptop, and on a phone or tablet, where the controls collapse to a
+strip of coloured tabs down the right edge and slide out over the sheet when you
+tap one.
 
 ---
 
