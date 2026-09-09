@@ -119,6 +119,15 @@ It is one file, so open it in any editor.
 
 ---
 
+## Getting in touch
+
+Found a bug, or want it to do something it does not? [Open an issue](https://github.com/WD80/mathsheets/issues) -
+that way the answer is there for whoever asks next.
+
+Anything else, I am on [LinkedIn](https://www.linkedin.com/in/woutdispa/).
+
+---
+
 ## Licence
 
 Code: [MIT](LICENSE). Do what you like with it.
